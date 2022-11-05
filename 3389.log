@@ -1,0 +1,188 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-11-05 16:18 CST
+Nmap scan report for 172.29.0.73
+Host is up (0.0026s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.0.206
+Host is up (0.0015s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.1.5
+Host is up (0.0069s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.3.57
+Host is up (0.0012s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.3.201
+Host is up (0.0017s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.9.155
+Host is up (0.0022s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.9.208
+Host is up (0.0010s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.12.212
+Host is up (0.0018s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.16.14
+Host is up (0.0017s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.16.248
+Host is up (0.0019s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.17.122
+Host is up (0.0022s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.19.216
+Host is up (0.0011s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.23.150
+Host is up (0.0014s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.25.12
+Host is up (0.013s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.25.131
+Host is up (0.0017s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.26.254
+Host is up (0.0014s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.30.149
+Host is up (0.0015s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.35.168
+Host is up (0.0018s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.37.235
+Host is up (0.0020s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.38.106
+Host is up (0.0016s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.38.194
+Host is up (0.0011s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.40.188
+Host is up (0.0014s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.41.248
+Host is up (0.0026s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.42.7
+Host is up (0.0016s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.42.45
+Host is up (0.0025s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.43.31
+Host is up (0.0012s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.50.136
+Host is up (0.0016s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.64.9
+Host is up (0.0019s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.65.88
+Host is up (0.0019s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.88.148
+Host is up (0.0014s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.149.132
+Host is up (0.0015s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.151.197
+Host is up (0.0018s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.152.94
+Host is up (0.0015s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.226.113
+Host is up (0.0042s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.227.153
+Host is up (0.00083s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.235.124
+Host is up (0.00082s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 172.29.240.233
+Host is up (0.0025s latency).
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap done: 65536 IP addresses (2537 hosts up) scanned in 2263.06 seconds

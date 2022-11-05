@@ -1,0 +1,4 @@
+Nmap scan report for 172.29.248.4
+Host is up (0.0017s latency).
+PORT   STATE SERVICE
+80/tcp open  http
